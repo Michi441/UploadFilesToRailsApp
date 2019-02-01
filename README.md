@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## This app shows how to handle multiple file uploads to your Rails 5.2 application.
+## Theres an tutorial that shows you all important steps on my YouTube channel:
+## https://www.youtube.com/channel/UCpjN3nNJ5fMvKg6OgiIWePg/
 
-Things you may want to cover:
 
-* Ruby version
+* If you want to explore the app, simply clone this repo.
+* then run:
+* - bundle install
+* - rails db:migrate
 
-* System dependencies
 
-* Configuration
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
